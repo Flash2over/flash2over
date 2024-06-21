@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Skillset
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,arduino,aws,bash,bootstrap,css,discord,docker,gcp,git,github,gitlab,html,javascript,markdown,maven,mongodb,mysql,linux,nginx,nodejs,php,python,raspberrypi,react,sass,sequelize,stackoverflow,tailwindcss,typescript,vim,vscode,vuejs,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,androidstudio,arduino,aws,bash,bootstrap,cpp,css,debian,discord,bots,docker,express,gcp,git,github,gitlab,html,js,linux,md,mongodb,mysql,nextjs,nginx,nodejs,npm,php,py,raspberrypi,react,sass,sequelize,stackoverflow,tailwind,ts,ubuntu,vscode,vue,windows,wordpress)](https://skillicons.dev)
