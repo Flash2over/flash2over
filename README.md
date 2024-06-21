@@ -1,4 +1,4 @@
-## Hi there 👋. My Name is Thomas!
+## Hi there 👋! My Name is Thomas!
 
 <!--
 **Flash2over/flash2over** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
