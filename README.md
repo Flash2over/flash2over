@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="left">Languages and Tools:</h3>
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,arduino,aws,bash,bootstrap,css,discord,docker,gcp,git,github,gitlab,html,javascript,markdown,maven,mongodb,mysql,linux,nginx,nodejs,php,python,raspberrypi,react,sass,sequelize,stackoverflow,tailwindcss,typescript,vim,vscode,vuejs,wordpress)](https://skillicons.dev)
