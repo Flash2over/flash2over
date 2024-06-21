@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋. My Name is Thomas!
 
 <!--
 **Flash2over/flash2over** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Skillset
+### My Skillset:
 [![My Skills](https://skillicons.dev/icons?i=anaconda,androidstudio,arduino,aws,bash,bootstrap,cpp,css,debian,discord,bots,docker,express,gcp,git,github,gitlab,html,js,linux,md,mongodb,mysql,nextjs,nginx,nodejs,npm,php,py,raspberrypi,react,sass,sequelize,stackoverflow,tailwind,ts,ubuntu,vscode,vue,windows,wordpress)](https://skillicons.dev)
